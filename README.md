@@ -8,4 +8,6 @@ Need to have installed git bash (if windows)
 
 Initially, edit the code by adding the your google maps api key in "Maps.js" component
 
+cd into the directory and run "npm install" to install all dependencies.
+
 Then run "npm start" in terminal.
